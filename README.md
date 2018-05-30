@@ -33,7 +33,7 @@ During the *one-month residency*, the five artists developed a series of meeting
 
 ## **Exhibition** 
 
-On the 2nd of June 2018, the artists hosted a one day "Solo/Group" Exhibition at their residency in Sarajevo, presenting a a series of VR Exhibitions. Within the group exhibition, each artists had their own VR Exhibition (this, "Solo/Group" Exhibition). 
+On the 2nd of June 2018, the artists hosted a one day "Solo/Group" Exhibition at their residency in Sarajevo, presenting a a series of VR Exhibitions. Within the group exhibition, each artists had their own VR Exhibition (thus, "Solo/Group" Exhibition). 
 
 Additionally, the Home Exhibition format consisted in presenting the outcomes of the residency during dinner, creating a commoning environment with the public. 
 
