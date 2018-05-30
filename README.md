@@ -15,7 +15,7 @@ The OAR Sarajevo 2018 was run by five artists:
 
 > - [Alex Yang](@alexalexyang) (Singapore) 
 > - Bengü Özakıncı (Turkey)
-> - Daníel Eldjárn (Iceland)
+> - [Daníel Eldjárn](@danieleldjarn) (Iceland)
 > - Fred Becker (Germany)
 > - [Lia Carreira](https://liacarreira.com/) (Brazil)
 
