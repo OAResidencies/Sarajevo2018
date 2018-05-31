@@ -28,7 +28,7 @@ During the *one-month residency*, the five artists developed a series of meeting
 ## **Projects** 
 
 > - DIY Residencies (2018)  
-> - Bite to Byte](https://github.com/oberro/Bite-to-Byte)  (2017-ongoing) 
+> - [Bite to Byte](https://github.com/oberro/Bite-to-Byte)  (2017-ongoing) 
 > - OAR Sarajevo Exhibition (2018)
 
 ## **Exhibition** 
